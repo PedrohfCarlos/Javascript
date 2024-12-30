@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient(
+       rgb( 135,136,140),
+    rgb(188,157,165),
+    rgb(142,97,128)
+    );
+    color: white;
+    font-family:sans-serif;
+    display: flex;
+  flex-direction: column;
+   
+}
+
+#abaixocapa{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#botãos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.button {
+    font-size: 1.5em;
+}
+.button-navegasao{
+    font-size: 2em;
+}
+.button-biggest{
+    font-size: 3.5em;  
+}
