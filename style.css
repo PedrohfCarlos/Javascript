@@ -24,6 +24,9 @@ body{
     justify-content: space-around;
     align-items: center;
 }
+#capa{
+    width: 450px
+}
 
 .button {
     font-size: 1.5em;
