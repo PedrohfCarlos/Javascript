@@ -1,6 +1,6 @@
 body{
     background-image: linear-gradient(
-       rgb( 135,136,140),
+       
     rgb(188,157,165),
     rgb(142,97,128)
     );
@@ -8,6 +8,7 @@ body{
     font-family:sans-serif;
     display: flex;
   flex-direction: column;
+  align-items: center;
    
 }
 
