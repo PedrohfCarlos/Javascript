@@ -17,6 +17,7 @@ body{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+      margin: 0 0 4em 0;
 }
 
 #botãos{
@@ -39,13 +40,10 @@ body{
 #capa{
     width: 450px;
 }
-.musica-container{
-    background-color : pink;
-}
 
 #playlist-titulo{
     display : flex;
     flex-direction: row;
     justify-content: center;
-    margin: 2em 3em 4em 5em;
+    margin: 0 0 4em 0;
 }
