@@ -1,9 +1,9 @@
 body{
     background-image: linear-gradient(
-       
     rgb(188,157,165),
     rgb(142,97,128)
     );
+    height: 100vh;
     color: white;
     font-family:sans-serif;
     display: flex;
@@ -25,9 +25,6 @@ body{
     justify-content: space-around;
     align-items: center;
 }
-#capa{
-    width: 450px
-}
 
 .button {
     font-size: 1.5em;
@@ -37,4 +34,18 @@ body{
 }
 .button-biggest{
     font-size: 3.5em;  
+    
+}
+#capa{
+    width: 450px;
+}
+.musica-container{
+    background-color : pink;
+}
+
+#playlist-titulo{
+    display : flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 2em 3em 4em 5em;
 }
