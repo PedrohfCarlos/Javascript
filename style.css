@@ -55,6 +55,10 @@ body{
 }
  #nome-do-cantor{
     font-size: 1em ;
-    color : rgb (139, 153, 156)
+    color : rgb(139, 153, 156);
+   
+ }
+  .light-color{
+    color : rgb(139, 153, 156);
    
  }
