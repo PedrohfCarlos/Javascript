@@ -17,7 +17,7 @@ body{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-      margin: 0 0 1em 0;
+      margin: 1em 0 1em 0;
 }
 
 #botaos{
@@ -39,6 +39,7 @@ body{
 }
 #capa{
     width: 450px;
+      margin: 0 0 2em 0;
 }
 
 #playlist-titulo{
