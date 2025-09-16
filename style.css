@@ -48,3 +48,13 @@ body{
     justify-content: center;
     margin: 0 0 4em 0;
 }
+
+#nome-da-musica{
+    font-weight: 1.5em;
+    font-weight: bolder;
+}
+ #nome-do-cantor{
+    font-size: 1em ;
+    color : rgb (139, 153, 156)
+   
+ }
