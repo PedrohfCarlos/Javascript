@@ -1,1 +1,1 @@
-nomeMusica = document.getElementById(`nome-da-musica`);
+const nomeMusica = document.getElementById(`nome-da-musica`);
