@@ -64,4 +64,14 @@ body{
  }
  #barra-progresso{
     background-color: rgb(139, 153, 156);
- }
+    height: 3px;
+    width : 100%;
+    border-radius: 15px
+}
+
+#progresso{
+    background-color: white;;
+    height: inherit;
+    width: 50%;
+
+}
