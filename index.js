@@ -5,7 +5,7 @@ const Play = document.getElementById("play");
 nomeMusica.innerText = "Minha Musica Favorita";
 
 function tocarMusica() {
-  audio.();
+  audio.play();
 }
 
 play.addEventListener("click", tocarMusica);
