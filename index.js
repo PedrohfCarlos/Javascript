@@ -1,5 +1,11 @@
-const nomeMusica = document.getElementById(`nome-da-musica`);
+const nomeMusica = document.getElementById("nome-da-musica");
 const audio = document.getElementById("audio");
+const Play = document.getElementById("play");
+
 nomeMusica.innerText = "Minha Musica Favorita";
-audio.play();
-audio.pause();
+
+function tocarMusica() {
+  audio.();
+}
+
+play.addEventListener("click", tocarMusica);
